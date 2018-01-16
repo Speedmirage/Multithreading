@@ -7,7 +7,7 @@ This program demostrates multithreading performance on MacOS. The program follow
 The program *Should* only be able to run on a UNIX based OS. This is because the multithreading platform being used is PThread. **IF** one were to run this on an MS-DOS based OS, DWORD would be used as its platform. 
 
 ## How to run it?
-1. Click [here](http://cpp.sh/56ias) and follow the in-program prompts
+1. Click [here](http://cpp.sh/56ias) and follow the in-program prompts.
 2. Have fun and enjoy :)
 
 
